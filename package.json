@@ -1,0 +1,25 @@
+{
+  "name": "chinaregioncascader",
+  "version": "1.0.0",
+  "description": "中国行政区划选择组件（2020.11，ant design vue版）",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xlgp/ChinaRegionCascader.git"
+  },
+  "keywords": [
+    "行政区划，ant",
+    "design",
+    "vue",
+    "中国"
+  ],
+  "author": "xlgp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xlgp/ChinaRegionCascader/issues"
+  },
+  "homepage": "https://github.com/xlgp/ChinaRegionCascader#readme"
+}
